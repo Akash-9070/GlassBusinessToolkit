@@ -33,10 +33,10 @@ Built with Tkinter, the application offers an intuitive and scrollable interface
 
 ## 📸 Screenshots  
 
-![Interface](assests\images\Interface.png)  
+![Interface](assests/images/Interface.png)  
 *🚀 The Glass Price Calculator Interface*  
 
-![Bill](assests\images\Bill.png)  
+![Bill](assests/images/Bill.png)  
 *📄 Preview of Generated PDF Invoice*  
 
 ---
