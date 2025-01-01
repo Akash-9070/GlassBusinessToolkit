@@ -46,5 +46,5 @@ Built with Tkinter, the application offers an intuitive and scrollable interface
 ### 1️⃣ Clone the Repository  
 
 ```bash
-git clone https://github.com/yourusername/GlassProfitCalculator.git
+git clone https://github.com/Akash-9070/GlassBusinessToolkit.git
 cd GlassProfitCalculator
